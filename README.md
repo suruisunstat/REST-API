@@ -4,12 +4,12 @@
 
 ```
 pip install Flask
-python app,py
+python app.py
 
 ```
 
 ## Description
-
+This is build with _flask_, **flaskrestful**.
 
 ## Implementation
 
